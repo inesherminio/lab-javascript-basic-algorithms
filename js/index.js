@@ -2,6 +2,6 @@
 
 // Iteration 2: Conditionals
  console.log("hello")
-
+ console.log("goodbye")
 
 // Iteration 3: Loops
